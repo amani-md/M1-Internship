@@ -1,0 +1,561 @@
+,name,flux,normalisedFlux,normalisedFlux*1000
+EX_2hb_e,EX_2hb_e,0.0,0.0,0.0
+EX_ac_e,EX_ac_e,0.0,0.0,0.0
+EX_acac_e,EX_acac_e,0.0,0.0,0.0
+EX_akg_e,EX_akg_e,-49.461341935089905,-0.04393210492913154,-43.93210492913154
+EX_ala_B_e,EX_ala_B_e,0.0,0.0,0.0
+EX_ala_L_e,EX_ala_L_e,0.31969223336455066,0.0002839541385599957,0.28395413855999574
+EX_arg_L_e,EX_arg_L_e,-0.1005773318450283,-8.933388628853899e-05,-0.08933388628853899
+EX_argsuc_e,EX_argsuc_e,0.0,0.0,0.0
+EX_asn_L_e,EX_asn_L_e,0.0,0.0,0.0
+EX_asp_L_e,EX_asp_L_e,0.0,0.0,0.0
+EX_bhb_e,EX_bhb_e,0.0,0.0,0.0
+EX_bilirub_e,EX_bilirub_e,0.0,0.0,0.0
+EX_biomass_e,EX_biomass_e,51.602202284362654,0.045833640508701874,45.833640508701876
+EX_but_e,EX_but_e,-0.007184095131787736,-6.380991877752785e-06,-0.006380991877752785
+EX_chol_e,EX_chol_e,0.0,0.0,0.0
+EX_cit_e,EX_cit_e,6.76382556657815,0.006007703852904244,6.007703852904244
+EX_citr_L_e,EX_citr_L_e,0.0,0.0,0.0
+EX_co_e,EX_co_e,0.0,0.0,0.0
+EX_co2_e,EX_co2_e,15.329705963966376,0.013616012517928064,13.616012517928063
+EX_creat_e,EX_creat_e,0.0,0.0,0.0
+EX_cyan_e,EX_cyan_e,0.0,0.0,0.0
+EX_cys_L_e,EX_cys_L_e,0.0,0.0,0.0
+EX_etoh_e,EX_etoh_e,0.0,0.0,0.0
+EX_fe2_e,EX_fe2_e,0.0,0.0,0.0
+EX_for_e,EX_for_e,1.7098146413654804,0.0015186760669051622,1.5186760669051622
+EX_fum_e,EX_fum_e,0.0,0.0,0.0
+EX_glc_D_e,EX_glc_D_e,-3.543554923754301,-0.0031474242437015613,-3.147424243701561
+EX_gln_L_e,EX_gln_L_e,-0.21911490151952584,-0.00019462025227145986,-0.19462025227145985
+EX_glu_L_e,EX_glu_L_e,0.0,0.0,0.0
+EX_gly_e,EX_gly_e,2.148044444404532,0.0019079165714480817,1.9079165714480817
+EX_glyc_e,EX_glyc_e,0.0,0.0,0.0
+EX_h_e,EX_h_e,26.015914566740708,0.023107619887735603,23.107619887735602
+EX_h2o_e,EX_h2o_e,-17.42861478971704,-0.01548028629542825,-15.48028629542825
+EX_HC00250_e,EX_HC00250_e,0.0,0.0,0.0
+EX_hco3_e,EX_hco3_e,0.0,0.0,0.0
+EX_hdca_e,EX_hdca_e,0.007184095131787735,6.380991877752784e-06,0.0063809918777527844
+EX_his_L_e,EX_his_L_e,0.0,0.0,0.0
+EX_icit_e,EX_icit_e,10.258887848192886,0.009112056401430976,9.112056401430976
+EX_ile_L_e,EX_ile_L_e,0.0,0.0,0.0
+EX_lac_L_e,EX_lac_L_e,6.767417614144049,0.0060108943488431255,6.0108943488431255
+EX_leu_L_e,EX_leu_L_e,0.0,0.0,0.0
+EX_lys_L_e,EX_lys_L_e,0.0,0.0,0.0
+EX_mal_L_e,EX_mal_L_e,-4.577421646217432,-0.0040657159753248965,-4.065715975324896
+EX_mercplac_e,EX_mercplac_e,0.0,0.0,0.0
+EX_met_L_e,EX_met_L_e,0.0,0.0,0.0
+EX_nad_e,EX_nad_e,-1.437390372243041e-14,-1.2767058512155983e-17,-1.2767058512155984e-14
+EX_nadh_e,EX_nadh_e,0.0,0.0,0.0
+EX_nh4_e,EX_nh4_e,0.0,0.0,0.0
+EX_no_e,EX_no_e,0.0,0.0,0.0
+EX_o2_e,EX_o2_e,-5.9347055553709644,-0.005271270389796859,-5.271270389796858
+EX_oaa_e,EX_oaa_e,-0.31969223336455665,-0.00028395413856000104,-0.283954138560001
+EX_pchol_hs_e,EX_pchol_hs_e,0.0,0.0,0.0
+EX_pcreat_e,EX_pcreat_e,0.0,0.0,0.0
+EX_pe_hs_e,EX_pe_hs_e,0.0,0.0,0.0
+EX_phe_L_e,EX_phe_L_e,0.0,0.0,0.0
+EX_pi_e,EX_pi_e,-4.023449550997241e-15,-3.573671900844206e-18,-3.573671900844206e-15
+EX_ppa_e,EX_ppa_e,0.0,0.0,0.0
+EX_pro_L_e,EX_pro_L_e,0.10057733184502853,8.933388628853919e-05,0.0893338862885392
+EX_ps_hs_e,EX_ps_hs_e,0.0,0.0,0.0
+EX_ser_L_e,EX_ser_L_e,-1.928929542885007,-0.0017132963191766226,-1.7132963191766226
+EX_so3_e,EX_so3_e,0.0,0.0,0.0
+EX_succ_e,EX_succ_e,37.55485730142038,0.033356635040952674,33.356635040952675
+EX_tcynt_e,EX_tcynt_e,0.0,0.0,0.0
+EX_thr_L_e,EX_thr_L_e,0.0,0.0,0.0
+EX_trp_L_e,EX_trp_L_e,0.0,0.0,0.0
+EX_tsul_e,EX_tsul_e,0.0,0.0,0.0
+EX_tyr_L_e,EX_tyr_L_e,0.0,0.0,0.0
+EX_urea_e,EX_urea_e,0.10057733184502826,8.933388628853894e-05,0.08933388628853894
+EX_val_L_e,EX_val_L_e,0.0,0.0,0.0
+EX_fol_e,EX_fol_e,0.0,0.0,0.0
+OF_ATP_mitoMap,R_OF_ATP_mitoMap Maximum ATP production (ATP hydrolysis),51.60220228436265,0.04583364050870187,45.83364050870187
+OF_HEME_mitoMap,R_OF_HEME_mitoMap Maximum Heme production,0.0,0.0,0.0
+OF_LIPID_mitoMap,R_OF_LIPID_mitoMap Maximum lipid synthesis (Mito Inner Membrane),0.0,0.0,0.0
+OF_PROTEIN_mitoMap,R_OF_PROTEIN_mitoMap Maxmium production of amino acids for protein synthesis,0.0,0.0,0.0
+HEX1,R_HEX1 ATP + alpha-D-Glucose --> ADP + alpha-D-Glucose 6-phosphate,3.543554923754301,0.0031474242437015613,3.147424243701561
+G6PPer,R_G6PPer alpha-D-Glucose 6-phosphate + H2O --> alpha-D-Glucose + Orthophosphate,0.0,0.0,0.0
+PGI,R_PGI alpha-D-Glucose 6-phosphate --> beta-D-Fructose 6-phosphate,3.543554923754301,0.0031474242437015613,3.147424243701561
+PFK,"R_PFK ATP + beta-D-Fructose 6-phosphate --> ADP + beta-D-Fructose 1,6-bisphosphate",3.5435549237543005,0.003147424243701561,3.1474242437015607
+FBP,"R_FBP beta-D-Fructose 1,6-bisphosphate + H2O --> beta-D-Fructose 6-phosphate + Orthophosphate",0.0,0.0,0.0
+FBA,"R_FBA beta-D-Fructose 1,6-bisphosphate --> Glycerone phosphate + D-Glyceraldehyde 3-phosphate",3.5435549237543005,0.003147424243701561,3.1474242437015607
+TPI,R_TPI D-Glyceraldehyde 3-phosphate --> Glycerone phosphate,3.5435549237543005,0.003147424243701561,3.1474242437015607
+GAPD,R_GAPD D-Glyceraldehyde 3-phosphate + Orthophosphate + NAD+ --> 3-Phospho-D-glyceroyl phosphate + NADH + H+,7.087109847508602,0.006294848487403123,6.294848487403122
+PGK,R_PGK ATP + 3-Phospho-D-glycerate --> ADP + 3-Phospho-D-glyceroyl phosphate,-7.087109847508601,-0.006294848487403122,-6.294848487403121
+PGM,R_PGM 2-Phospho-D-glycerate --> 3-Phospho-D-glycerate,-7.087109847508601,-0.006294848487403122,-6.294848487403121
+ENO,R_ENO 2-Phospho-D-glycerate --> Phosphoenolpyruvate + H2O,7.087109847508601,0.006294848487403122,6.294848487403121
+PYK,R_PYK ADP + Phosphoenolpyruvate --> ATP + Pyruvate,7.087109847508601,0.006294848487403122,6.294848487403121
+r0122,R_r0122  GDP + Phosphoenolpyruvate --> GTP + Pyruvate,0.0,0.0,0.0
+PEPCK,R_PEPCK GTP + oxaloacetate --> GDP + phosphoenolpyruvate + CO2,0.0,0.0,0.0
+LDH_L,R_LDH_L (S)-Lactate + NAD+ --> Pyruvate + NADH + H+,-6.76741761414405,-0.006010894348843126,-6.010894348843126
+G6PDH2r,"R_G6PDH2r beta-D-Glucose 6-phosphate + NADP+ --> D-Glucono-1,5-lactone 6-phosphate + NADPH + H+",0.0,0.0,0.0
+PGL,"R_PGL D-Glucono-1,5-lactone 6-phosphate + H2O --> 6-Phospho-D-gluconate",0.0,0.0,0.0
+GND,R_GND 6-Phospho-D-gluconate + NADP+ --> D-Ribulose 5-phosphate + CO2 + NADPH + H+,0.0,0.0,0.0
+RPI,R_RPI D-Ribose 5-phosphate --> D-Ribulose 5-phosphate,0.0,0.0,0.0
+RPE,R_RPE D-Ribulose 5-phosphate --> D-Xylulose 5-phosphate,0.0,0.0,0.0
+TKT1,R_TKT1 D-Ribose 5-phosphate + D-Xylulose 5-phosphate --> Sedoheptulose 7-phosphate + D-Glyceraldehyde 3-phosphate,0.0,0.0,0.0
+TALA,R_TALA Sedoheptulose 7-phosphate + D-Glyceraldehyde 3-phosphate --> D-Erythrose 4-phosphate + beta-D-Fructose 6-phosphate,0.0,0.0,0.0
+TKT2,R_TKT2 D-Erythrose 4-phosphate + D-Xylulose 5-phosphate --> beta-D-Fructose 6-phosphate + D-Glyceraldehyde 3-phosphate,0.0,0.0,0.0
+PDHm,R_PDHm Pyruvate + CoA + NAD+ --> Acetyl-CoA + CO2 + NADH + H+,0.0,0.0,0.0
+CSm,R_CSm Acetyl-CoA + H2O + Oxaloacetate --> Citrate + CoA,0.0,0.0,0.0
+ACONTm,R_ACONTm Citrate -> Isocitrate,-6.806930137368878,-0.006045989804170763,-6.0459898041707625
+ICDHxm,R_ICDHxm Isocitrate + NAD(+) = 2-oxoglutarate + CO(2) + NADH,0.0,0.0,0.0
+ICDHyrm,R_ICDHyrm Isocitrate + NADP(+) -> 2-oxoglutarate + CO(2) + NADPH,-17.065817985561765,-0.015158046205601738,-15.158046205601739
+AKGDm,R_AKGDm 2-Oxoglutarate + CoA + NAD+ --> Succinyl-CoA + CO2 + NADH + H+,32.614638851047665,0.02896867897580126,28.96867897580126
+SUCOAS1m,R_SUCOAS1m GTP + Succinate + CoA --> GDP + Orthophosphate + Succinyl-CoA,0.0,0.0,0.0
+SUCOASm,R_SUCOASm ATP + Succinate + CoA --> ADP + Orthophosphate + Succinyl-CoA,-32.614638851047665,-0.02896867897580126,-28.96867897580126
+FUMm,R_FUMm Fumarate + H2O --> (S)-Malate,1.3317610691149226,0.0011828847487735036,1.1828847487735037
+MDHm,R_MDHm (S)-Malate + NAD+ --> Oxaloacetate + NADH + H+,-0.043104570790726326,-3.828595126651663e-05,-0.038285951266516634
+CI_mitoMap,R_CI_mitoMap NADH dehydrogenase,7.8270716460824525,0.006952090650811405,6.952090650811405
+CII_mitoMap,R_CII_mitoMap succinate dehydrogenase,-4.9402184503727185,-0.004387956065151417,-4.387956065151418
+CIII_mitoMap,R_CIII_mitoMap cytochrome c reductase,11.853756967449762,0.010528636598292092,10.528636598292092
+CIV_mitoMap,R_CIV_mitoMap cytochrome c oxidase,5.926878483724881,0.005264318299146046,5.264318299146046
+CV_mitoMap,R_CV_mitoMap ATP synthase,10.248111705495205,0.009102484913614347,9.102484913614347
+PEPCKm,R_PEPCKm GTP + Oxaloacetate --> GDP + Phosphoenolpyruvate + CO2,0.0,0.0,0.0
+PCm,R_PCm ATP + Pyruvate + HCO3- --> ADP + Orthophosphate + Oxaloacetate,0.0,0.0,0.0
+ME2m,R_ME2m (S)-Malate + NADP+ --> Pyruvate + CO2 + NADPH + H+,0.0,0.0,0.0
+ME1m,R_ME1m (S)-malate + NAD+ = pyruvate + CO(2) + NADH.,0.0,0.0,0.0
+r0081,R_r0081 L-Alanine + 2-Oxoglutarate --> Pyruvate + L-Glutamate,-0.31969223336455416,-0.00028395413855999887,-0.28395413855999885
+ACITLm_mitoMap,R_ACITLm_mitoMap ATP + Citrate + CoA --> ADP + Orthophosphate + Acetyl-CoA + Oxaloacetate,0.043104570790726326,3.828595126651663e-05,0.038285951266516634
+NDPK1m,R_NDPK1m ATP + GDP --> ADP + GTP,0.0,0.0,0.0
+NNT_mitoMap,R_NNT_mitoMap NADP+ + NADH --> NADPH + NAD+,23.110080991692772,0.020526626721534578,20.526626721534576
+ADK1m,R_ADK1m ATP + AMP --> 2 ADP,0.007184095131787736,6.380991877752785e-06,0.006380991877752785
+ME2,R_ME2 (S)-Malate + NADP+ --> Pyruvate + CO2 + NADPH + H+,0.0,0.0,0.0
+ALATA_L,R_ALATA_L L-Alanine + 2-Oxoglutarate --> Pyruvate + L-Glutamate,3.5489317250797214e-15,3.1521999774517993e-18,3.1521999774517992e-15
+NDPK1,R_NDPK1 ATP + GDP --> ADP + GTP,0.0,0.0,0.0
+FUM,R_FUM Fumarate + H2O --> (S)-Malate,-6.271979519487642,-0.005570840813924922,-5.570840813924922
+ADK1,R_ADK1 ATP + AMP --> 2 ADP,0.0,0.0,0.0
+ICDHy,R_ICDHy Isocitrate + NADP(+) -> 2-oxoglutarate + CO(2) + NADPH,0.0,0.0,0.0
+ACONT,R_ACONT Citrate -> Isocitrate,0.0,0.0,0.0
+ACITL,R_ACITL ATP + Citrate + CoA --> ADP + Orthophosphate + Acetyl-CoA + Oxaloacetate,0.0,0.0,0.0
+ASPTA,R_ASPTA L-Aspartate + 2-Oxoglutarate --> Oxaloacetate + L-Glutamate,-5.061936874474931e-15,-4.496067700830135e-18,-4.496067700830135e-15
+MDH,R_MDH (S)-Malate + NAD+ --> Oxaloacetate + NADH + H+,-0.31969223336455155,-0.00028395413855999654,-0.2839541385599965
+AKGMALtm,R_AKGMALtm Malate - Oxoglutarate (OGC) Antiporter,-49.46134193508991,-0.04393210492913155,-43.93210492913155
+ASPGLUmB_mitoMap,R_ASPGLUmB_mitoMap Glutamate/Aspartate Antiporter (AGC1) - glutamate (in) for aspartate (out),0.0,0.0,0.0
+ASPTAm,R_ASPTAm L-Aspartate + 2-Oxoglutarate --> Oxaloacetate + L-Glutamate,0.0,0.0,0.0
+G3PD1,R_G3PD1 sn-Glycerol 3-phosphate + NAD+ --> Glycerone phosphate + NADH + H+,0.0,0.0,0.0
+r0205,R_r0205 sn-Glycerol 3-phosphate + Ubiquinone --> Glycerone phosphate + Ubiquinol,0.0,0.0,0.0
+FACOAL160i,R_FACOAL160i ATP + Hexadecanoic acid + CoA --> AMP + Palmitoyl-CoA + Diphosphate,0.0,0.0,0.0
+C160CPT1,R_C160CPT1 Palmitoyl-CoA + L-Carnitine --> CoA + L-Palmitoylcarnitine,0.0,0.0,0.0
+PPA,R_PPA Pyrophosphate+H2O-->2Orthophosphate,0.0,0.0,0.0
+r2435,"R_r2435 carnitine carrier - Carnitine out, acyl carnitine in",0.0,0.0,0.0
+C160CPT2,R_C160CPT2 CoA + L-Palmitoylcarnitine --> Palmitoyl-CoA + L-Carnitine,0.0,0.0,0.0
+PPAm,R_PPAm Pyrophosphate+H2O-->2Orthophosphate,0.007184095131787735,6.380991877752784e-06,0.0063809918777527844
+ACOT2_mitoMap,R_ACOT2_mitoMap Palmitoyl-CoA + H2O --> CoA + Hexadecanoic acid,0.007184095131787734,6.380991877752783e-06,0.006380991877752784
+ACADLC16_mitoMap,R_ACADLC16_mitoMap Palmitoyl-CoA + Q --> trans-Hexadec-2-enoyl-CoA + QH2,0.0,0.0,0.0
+MECR16C_mitoMap,R_MECR16C_mitoMap trans-Hexadec-2-enoyl-CoA + NADPH + H+ --> Palmitoyl-CoA + NADP+,0.007184095131787735,6.380991877752784e-06,0.0063809918777527844
+MTPC16_mitoMap,R_MTPC16_mitoMap trans-Hexadec-2-enoyl-CoA + H2O + NAD+ + CoA -> Tetradecanoyl-CoA + NADH + Acetyl-CoA,-0.007184095131787735,-6.380991877752784e-06,-0.0063809918777527844
+ACADLC14_mitoMap,R_ACADLC14_mitoMap Tetradecanoyl-CoA + Q --> trans-Tetradec-2-enoyl-CoA + QH2,0.0,0.0,0.0
+MECR14C_mitoMap,R_MECR14C_mitoMap trans-Tetradec-2-enoyl-CoA + NADPH + H+ --> Tetradecanoyl-CoA + NADP+,0.007184095131787735,6.380991877752784e-06,0.0063809918777527844
+MTPC14_mitoMap,R_MTPC14_mitoMap trans-Hexadec-2-enoyl-CoA + H2O + NAD+ + CoA -> Lauroyl-CoA + NADH + Acetyl-CoA,-0.007184095131787735,-6.380991877752784e-06,-0.0063809918777527844
+r1447_mitoMap,R_r1447 Lauroyl-CoA + Q --> 2-trans-Dodecenoyl-CoA + QH2,7.703146005059682,0.006842018540920674,6.842018540920674
+r0638,R_r0638 Lauroyl-CoA + NADP+ --> 2-trans-Dodecenoyl-CoA + NADPH + H+,-7.710330100191469,-0.006848399532798427,-6.848399532798426
+r0660,R_r0660 (S)-3-Hydroxydodecanoyl-CoA --> 2-trans-Dodecenoyl-CoA + H2O,0.007184095131787735,6.380991877752784e-06,0.0063809918777527844
+r0722,R_r0722 (S)-3-Hydroxydodecanoyl-CoA + NAD+ --> 3-Oxododecanoyl-CoA + NADH + H+,-0.007184095131787735,-6.380991877752784e-06,-0.0063809918777527844
+r0724,R_r0724 Decanoyl-CoA + Acetyl-CoA --> CoA + 3-Oxododecanoyl-CoA,0.007184095131787735,6.380991877752784e-06,0.0063809918777527844
+r1451,R_r1451 Decanoyl-CoA + Q -->trans-Dec-2-enoyl-CoA + QH2,0.0,0.0,0.0
+r0735,R_r0735 Decanoyl-CoA + NADP+ --> trans-Dec-2-enoyl-CoA + NADPH + H+,-0.007184095131787735,-6.380991877752784e-06,-0.0063809918777527844
+r0728,R_r0728 (S)-Hydroxydecanoyl-CoA --> trans-Dec-2-enoyl-CoA + H2O,0.007184095131787736,6.380991877752785e-06,0.006380991877752785
+r0726,R_r0726 (S)-Hydroxydecanoyl-CoA + NAD+ --> 3-Oxodecanoyl-CoA + NADH + H+,-0.007184095131787735,-6.380991877752784e-06,-0.0063809918777527844
+r0634,R_r0634 Octanoyl-CoA + Acetyl-CoA --> CoA + 3-Oxodecanoyl-CoA,0.007184095131787735,6.380991877752784e-06,0.0063809918777527844
+r1448,R_r1448 Octanoyl-CoA + Q --> trans-Oct-2-enoyl-CoA + QH2,0.0,0.0,0.0
+r0633,R_r0633 Octanoyl-CoA + NADP+ --> trans-Oct-2-enoyl-CoA + NADPH + H+,-0.007184095131787735,-6.380991877752784e-06,-0.0063809918777527844
+r0731,R_r0731 trans-Oct-2-enoyl-CoA + H2O --> (S)-Hydroxyoctanoyl-CoA,-0.007184095131787736,-6.380991877752785e-06,-0.006380991877752785
+r0730,R_r0730 (S)-Hydroxyoctanoyl-CoA + NAD+ --> 3-Oxooctanoyl-CoA + NADH + H+,-0.007184095131787735,-6.380991877752784e-06,-0.0063809918777527844
+r0732,R_r0732 CoA + 3-Oxooctanoyl-CoA  --> Hexanoyl-CoA + Acetyl-CoA,-0.007184095131787735,-6.380991877752784e-06,-0.0063809918777527844
+r1450,R_r1450 Hexanoyl-CoA + Q --> trans-Hex-2-enoyl-CoA + QH2,0.0,0.0,0.0
+r0791,R_r0791 trans-Hex-2-enoyl-CoA + NADPH + H+ --> Hexanoyl-CoA + NADP+,0.007184095131787735,6.380991877752784e-06,0.0063809918777527844
+r0734,R_r0734 trans-Hex-2-enoyl-CoA + H2O --> (S)-Hydroxyhexanoyl-CoA,-0.007184095131787736,-6.380991877752785e-06,-0.006380991877752785
+r0733,R_r0733 (S)-Hydroxyhexanoyl-CoA + NAD+ --> 3-Oxohexanoyl-CoA + NADH + H+,-0.007184095131787735,-6.380991877752784e-06,-0.0063809918777527844
+r0287,R_r0287 CoA + 3-Oxohexanoyl-CoA --> Acetyl-CoA + Butanoyl-CoA,-0.007184095131787735,-6.380991877752784e-06,-0.0063809918777527844
+r1446,R_r1446 Butanoyl-CoA + Q --> QH2 + Crotonoyl-CoA,0.0,0.0,0.0
+ECOAH1m,R_ECOAH1m (S)-3-Hydroxybutanoyl-CoA --> Crotonoyl-CoA + H2O,-6.156416667876986e-16,-5.468196625064627e-19,-5.468196625064627e-16
+HACD1m,R_HACD1m Acetoacetyl-CoA + NADH + H+ --> (S)-3-Hydroxybutanoyl-CoA + NAD+,-3.908594175662088e-16,-3.4716561001503917e-19,-3.4716561001503917e-16
+ACACT1rm,R_ACACT1rm 2 Acetyl-CoA --> CoA + Acetoacetyl-CoA,0.0,0.0,0.0
+ACCOAC,R_ACCOAC ATP + Acetyl-CoA + HCO3- --> ADP + Orthophosphate + Malonyl-CoA,0.0,0.0,0.0
+MCOATA,R_MCOATA Malonyl-CoA + Acyl-carrier protein --> CoA + Malonyl-[acyl-carrier protein],0.0,0.0,0.0
+ACOATA,R_ACOATA Acetyl-CoA + Acyl-carrier protein --> CoA + Acetyl-[acyl-carrier protein],0.0,0.0,0.0
+r0678,R_r0678 Acetyl-[acyl-carrier protein] + Malonyl-[acyl-carrier protein] --> Acetoacetyl-[acp] + CO2 + Acyl-carrier protein,0.0,0.0,0.0
+r0691,R_r0691 (3R)-3-Hydroxybutanoyl-[acyl-carrier protein] + NADP+ --> Acetoacetyl-[acp] + NADPH + H+,0.0,0.0,0.0
+r0681,R_r0681 3R)-3-Hydroxybutanoyl-[acyl-carrier protein] --> But-2-enoyl-[acyl-carrier protein] + H2O,0.0,0.0,0.0
+r0682,R_r0682 Butyryl-[acp] + NADP+ --> But-2-enoyl-[acyl-carrier protein] + NADPH + H+,0.0,0.0,0.0
+r0760,R_r0760 Butyryl-[acp] + Malonyl-[acyl-carrier protein] --> 3-Oxohexanoyl-[acp] + CO2 + Acyl-carrier protein,0.0,0.0,0.0
+r0761,R_r0761 (R)-3-Hydroxyhexanoyl-[acp] + NADP+ --> 3-Oxohexanoyl-[acp] + NADPH + H+,0.0,0.0,0.0
+r0762,R_r0762 (R)-3-Hydroxyhexanoyl-[acp] --> trans-Hex-2-enoyl-[acp] + H2O,0.0,0.0,0.0
+r0763,R_r0763 Hexanoyl-[acp] + NADP+ --> trans-Hex-2-enoyl-[acp] + NADPH + H+,0.0,0.0,0.0
+r0764,R_r0764 Hexanoyl-[acp] + Malonyl-[acyl-carrier protein] --> 3-Oxooctanoyl-[acp] + CO2 + Acyl-carrier protein,0.0,0.0,0.0
+r0694,R_r0694 (3R)-3-Hydroxyoctanoyl-[acyl-carrier protein] + NADP+ --> 3-Oxooctanoyl-[acp] + NADPH + H+,0.0,0.0,0.0
+r0695,R_r0695 (3R)-3-Hydroxyoctanoyl-[acyl-carrier protein] --> trans-Oct-2-enoyl-[acp] + H2O,0.0,0.0,0.0
+r0765,R_r0765 Octanoyl-[acp] + NADP+ --> trans-Oct-2-enoyl-[acp] + NADPH + H+,0.0,0.0,0.0
+r0766,R_r0766 Octanoyl-[acp] + Malonyl-[acyl-carrier protein] --> 3-Oxodecanoyl-[acp] + CO2 + Acyl-carrier protein,0.0,0.0,0.0
+r0692,R_r0692 (3R)-3-Hydroxydecanoyl-[acyl-carrier protein] + NADP+ --> 3-Oxodecanoyl-[acp] + NADPH,0.0,0.0,0.0
+r0693,R_r0693 (3R)-3-Hydroxydecanoyl-[acyl-carrier protein] --> trans-Dec-2-enoyl-[acp] + H2O,0.0,0.0,0.0
+r0767,R_r0767 Decanoyl-[acp] + NADP+ --> trans-Dec-2-enoyl-[acp] + NADPH + H+,0.0,0.0,0.0
+r0768,R_r0768 Decanoyl-[acp] + Malonyl-[acyl-carrier protein] --> 3-Oxododecanoyl-[acp] + CO2 + Acyl-carrier protein,0.0,0.0,0.0
+r0769,R_r0769 (R)-3-Hydroxydodecanoyl-[acp] + NADP+ --> 3-Oxododecanoyl-[acp] + NADPH + H+,0.0,0.0,0.0
+r0770,R_r0770 (R)-3-Hydroxydodecanoyl-[acp] --> trans-Dodec-2-enoyl-[acp] + H2O,0.0,0.0,0.0
+r0712,R_r0712 Dodecanoyl-[acyl-carrier protein] + NADP+ --> trans-Dodec-2-enoyl-[acp] + NADPH + H+,0.0,0.0,0.0
+r0713,R_r0713 Dodecanoyl-[acyl-carrier protein] + Malonyl-[acyl-carrier protein] --> 3-Oxotetradecanoyl-[acp] + CO2 + Acyl-carrier protein,0.0,0.0,0.0
+r0701,R_r0701 (3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein] + NADP+ --> 3-Oxotetradecanoyl-[acp] + NADPH + H+,0.0,0.0,0.0
+r0702,R_r0702 (3R)-3-Hydroxytetradecanoyl-[acyl-carrier protein] --> trans-Tetradec-2-enoyl-[acp] + H2O,0.0,0.0,0.0
+r0771,R_r0771 Tetradecanoyl-[acp] + NADP+ --> trans-Tetradec-2-enoyl-[acp] + NADPH + H+,0.0,0.0,0.0
+r0772,R_r0772 Tetradecanoyl-[acp] + Malonyl-[acyl-carrier protein] --> 3-Oxohexadecanoyl-[acp] + CO2 + Acyl-carrier protein,0.0,0.0,0.0
+r0696,R_r0696 (3R)-3-Hydroxypalmitoyl-[acyl-carrier protein] + NADP+ --> 3-Oxohexadecanoyl-[acp] + NADPH + H+,0.0,0.0,0.0
+r0697,R_r0697 (3R)-3-Hydroxypalmitoyl-[acyl-carrier protein] --> trans-Hexadec-2-enoyl-[acp] + H2O,0.0,0.0,0.0
+r0773,R_r0773 Hexadecanoyl-[acp] + NADP+ --> trans-Hexadec-2-enoyl-[acp] + NADPH + H+,0.0,0.0,0.0
+FA160ACPH,R_FA160ACPH Hexadecanoyl-[acp] + H2O --> Acyl-carrier protein + Hexadecanoic acid,0.0,0.0,0.0
+FACOAL40im,R_FACOAL40im ATP + Butanoic acid + CoA --> AMP + Diphosphate + Butanoyl-CoA,0.007184095131787735,6.380991877752784e-06,0.0063809918777527844
+BDHm,R_BDHm (R)-3-Hydroxybutanoate + NAD+ --> Acetoacetate + NADH + H+,0.0,0.0,0.0
+OCOAT1m,R_OCOAT1m Succinyl-CoA + Acetoacetate --> Succinate + Acetoacetyl-CoA,0.0,0.0,0.0
+HMGCOASim,R_HMGCOASim Acetyl-CoA + H2O + Acetoacetyl-CoA --> S)-3-Hydroxy-3-methylglutaryl-CoA + CoA,0.0,0.0,0.0
+HMGLm,R_HMGLm (S)-3-Hydroxy-3-methylglutaryl-CoA --> Acetyl-CoA + Acetoacetate,0.0,0.0,0.0
+LEUTAm,R_LEUTAm L-Leucine + 2-Oxoglutarate --> 4-Methyl-2-oxopentanoate + L-Glutamate,0.0,0.0,0.0
+OIVD1m,R_OIVD1m 4-Methyl-2-oxopentanoate + NAD+ + CoA -> NADH + CO2 + 3-Methylbutanoyl-CoA,0.0,0.0,0.0
+r0655,R_r0655 3-Methylbutanoyl-CoA + Q --> 3-Methylcrotonyl-CoA + QH2,0.0,0.0,0.0
+MCCCrm,R_MCCCrm ATP + 3-Methylcrotonyl-CoA + HCO3 ---> ADP + Orthophosphate + 3-Methylglutaconyl-CoA,0.0,0.0,0.0
+MGCHrm,R_MGCHrm 3-Methylglutaconyl-CoA + H2O --> (S)-3-Hydroxy-3-methylglutaryl-CoA,0.0,0.0,0.0
+ILETAm,R_ILETAm L-Isoleucine + 2-Oxoglutarate --> (S)-3-Methyl-2-oxopentanoicacid + L-Glutamate,0.0,0.0,0.0
+OIVD3m,R_OIVD3m NAD+ + CoA + (S)-3-Methyl-2-oxopentanoicacid -> NADH + CO2 + (S)-2-Methylbutanoyl-CoA,0.0,0.0,0.0
+r0603,R_r0603 (S)-2-Methylbutanoyl-CoA + Q --> 2-Methylbut-2-enoyl-CoA + QH2,0.0,0.0,0.0
+ECOAH9m,"R_ECOAH9m 2-Methylbut-2-enoyl-CoA + H2O --> (2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA",0.0,0.0,0.0
+HACD9m,"R_HACD9m (2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA + NAD+ --> 2-Methylacetoacetyl-CoA + NADH + H+",0.0,0.0,0.0
+ACACT10m,R_ACACT10m CoA + 2-Methylacetoacetyl-CoA --> Propanoyl-CoA + Acetyl-CoA,0.0,0.0,0.0
+VALTAm,R_VALTAm L-Valine + 2-Oxoglutarate --> 3-Methyl-2-oxobutanoicacid + L-Glutamate,0.0,0.0,0.0
+OIVD2m,R_OIVD2m NAD+ + CoA + 3-Methyl-2-oxobutanoicacid -> NADH + CO2 + 2-Methylpropanoyl-CoA,0.0,0.0,0.0
+r0560,R_r0560 2-Methylpropanoyl-CoA + Q --> 2-Methylprop-2-enoyl-CoA + QH2,0.0,0.0,0.0
+ECOAH12m,R_ECOAH12m 2-Methylprop-2-enoyl-CoA + H2O --> (S)-3-Hydroxyisobutyryl-CoA,0.0,0.0,0.0
+3HBCOAHLm,R_3HBCOAHLm (S)-3-Hydroxyisobutyryl-CoA + H2O --> CoA + (S)-3-Hydroxyisobutyrate,0.0,0.0,0.0
+HIBDm,R_HIBDm (S)-3-Hydroxyisobutyrate + NAD+ --> (S)-Methylmalonatesemialdehyde + NADH + H+,0.0,0.0,0.0
+ACCOALm,R_ACCOALm ATP + Propanoate + CoA --> AMP + Diphosphate + Propanoyl-CoA,0.0,0.0,0.0
+MMSAD1m,R_MMSAD1m (S)-Methylmalonatesemialdehyde + CoA + NAD+ --> Propanoyl-CoA + CO2 + NADH + H+,0.0,0.0,0.0
+PPCOACm,R_PPCOACm ATP + Propanoyl-CoA + HCO3- --> ADP + Orthophosphate + (S)-Methylmalonyl-CoA,0.0,0.0,0.0
+MMEm,R_MMEm (R)-Methylmalonyl-CoA --> (S)-Methylmalonyl-CoA,0.0,0.0,0.0
+MMMm,R_MMMm (R)-Methylmalonyl-CoA --> Succinyl-CoA,0.0,0.0,0.0
+MMCDm,R_MMCDm (S)-Methylmalonyl-CoA --> Propanoyl-CoA + CO2,0.0,0.0,0.0
+RE2649M,R_RE2649M H20 + Propanoyl-CoA  -> Propanoate + CoA + H+,0.0,0.0,0.0
+THRD_L,R_THRD_L L-Threonine --> 2-Oxobutanoate + Ammonia,0.0,0.0,0.0
+r1155,R_r1155 2-oxobutanoate transport into mitochondrion,0.0,0.0,0.0
+r1154,R_r1154 2-Oxobutanoate + CoA + NAD+ --> Propanoyl-CoA + NADH + CO2,0.0,0.0,0.0
+2HBO,R_2HBO 2-Hydroxybutanoic acid + NAD+ --> 2-Oxobutanoate + NADH + H+,0.0,0.0,0.0
+METAT,R_METAT ATP + L-Methionine + H2O --> Orthophosphate + Diphosphate + S-Adenosyl-L-methionine,0.0,0.0,0.0
+METAT2_mitoMap,R_METAT2_mitoMap S-Adenosyl-L-methionine + demethylated methyl donor --> S-Adenosyl-L-homocysteine + methyl donor,0.0,0.0,0.0
+AHC,R_AHC S-Adenosyl-L-homocysteine + H2O --> Adenosine + L-Homocysteine,0.0,0.0,0.0
+ADNK1,R_ADNK1 ATP + Adenosine --> ADP + AMP,0.0,0.0,0.0
+CYSTS,R_CYSTS L-Serine + L-Homocysteine --> L-Cystathionine + H2O,0.0,0.0,0.0
+CYSTGL,R_CYSTGL L-Cystathionine + H2O --> L-Cysteine + Ammonia + 2-Oxobutanoate,0.0,0.0,0.0
+CYSO,R_CYSO L-Cysteine + Oxygen --> 3-Sulfino-L-alanine,0.0,0.0,0.0
+3SALATAi,R_3SALATAi 3-Sulfino-L-alanine + 2-Oxoglutarate --> 3-Sulfinylpyruvate + L-Glutamate,0.0,0.0,0.0
+3SPYRSP,R_3SPYRSP 3-Sulfinylpyruvate + H2O --> Sulfite + Pyruvate,0.0,0.0,0.0
+CYSTA,R_CYSTA L-Cysteine + 2-Oxoglutarate --> Mercaptopyruvate + Glutamate,0.0,0.0,0.0
+CYSTAm,R_CYSTAm L-Cysteine + 2-Oxoglutarate --> Mercaptopyruvate + Glutamate,0.0,0.0,0.0
+MCPST,R_MCPST Hydrogen cyanide + Mercaptopyruvate --> Thiocyanate + Pyruvate,0.0,0.0,0.0
+MCPSTm_mitoMap,R_MCPSTm_mitoMap Hydrogen cyanide + Mercaptopyruvate --> Thiocyanate + Pyruvate,0.0,0.0,0.0
+r0595m_mitoMap,R_r0595m_mitoMap Mercaptopyruvate + Sulfite --> Thiosulfate + Pyruvate,0.0,0.0,0.0
+r0595B_mitoMap,R_r0595B_mitoMap Mercaptopyruvate + Sulfite --> Thiosulfate + Pyruvate,0.0,0.0,0.0
+MCLOR,R_MCLOR 3-Mercaptolactate + NAD+ --> Mercaptopyruvate + NADH + H+,0.0,0.0,0.0
+r0193,R_r0193 L-Cysteine + H2O --> Hydrogen sulfide + Pyruvate + Ammonia,0.0,0.0,0.0
+TRPO2,R_TRPO2 L-Tryptophan + Oxygen --> L-Formylkynurenine,0.0,0.0,0.0
+FKYNH,R_FKYNH L-Formylkynurenine + H2O --> Formate + L-Kynurenine,0.0,0.0,0.0
+KYN3OX,R_KYN3OX L-Kynurenine + Oxygen + NADPH + H+ --> 3-Hydroxy-L-kynurenine + NADP+ + H2O,0.0,0.0,0.0
+HKYNH,R_HKYNH 3-Hydroxy-L-kynurenine + H2O --> 3-Hydroxyanthranilate + L-Alanine,0.0,0.0,0.0
+3HAO,R_3HAO 3-Hydroxyanthranilate + Oxygen --> 2-Amino-3-carboxymuconate semialdehyde,0.0,0.0,0.0
+PCLAD,R_PCLAD 2-Amino-3-carboxymuconate semialdehyde --> 2-Aminomuconate semialdehyde + CO2,0.0,0.0,0.0
+r0645,R_r0645 2-Aminomuconate semialdehyde + NAD+ + H2O --> 2-Aminomuconate + H+ + NADH,0.0,0.0,0.0
+AMCOXO,R_AMCOXO 2-Aminomuconate + NADPH + H+ + H2O --> 2-Oxoadipate + Ammonia + NADP+,0.0,0.0,0.0
+AMCOXO2_mitoMap,R_AMCOXO2_mitoMap 2-Aminomuconate + NADH + H+ + H2O --> 2-Oxoadipate + NH3 + NAD+,0.0,0.0,0.0
+2OXOADPTmB_mitoMap,R_2OXOADPTmB_mitoMap oxodicarboxylate carrier (ODC) - oxoadipate (in) for oxoglutarate (out),0.0,0.0,0.0
+2OXOADPTmC_mitoMap,R_2OXOADPTmC_mitoMap oxodicarboxylate carrier (ODC) reverse - oxoadipate (out) for oxoglutarate (in),0.0,0.0,0.0
+2OXOADOXm,R_2OXOADOXm 2-Oxoadipate + CoA + NAD+ --> Glutaryl-CoA + CO2 + NADH + H+,0.0,0.0,0.0
+r0541,R_r0541 Glutaryl-CoA + Q --> QH2 + Crotonoyl-CoA + CO2,0.0,0.0,0.0
+SACCD3m,"R_SACCD3m L-Lysine + 2-Oxoglutarate + NADPH + H+ --> N6-(L-1,3-Dicarboxypropyl)-L-lysine + NADP+ + H2O",0.0,0.0,0.0
+r0525,"R_r0525 N6-(L-1,3-Dicarboxypropyl)-L-lysine+NAD++H2O-->L-Glutamate+L-2-Aminoadipate6-semialdehyde+NADH+H+",0.0,0.0,0.0
+AASAD3m,R_AASAD3m L-2-Aminoadipate6-semialdehyde+NAD++H2O-->L-2-Aminoadipate+NADH+H+,0.0,0.0,0.0
+R03103_mitoMap,R_R03103_mitoMap L-2-Aminoadipate6-semialdehyde+NADP++H2O-->L-2-Aminoadipate+NADPH+H+,0.0,0.0,0.0
+r0450,R_r0450 L-2-Aminoadipate+2-Oxoglutarate-->2-Oxoadipate+L-Glutamate,0.0,0.0,0.0
+LYSOXc_mitoMap,R_LYSOXc_mitoMap L-Lysine + Oxygen + H2O --> 6-Amino-2-oxohexanoate + Ammonia + Hydrogen peroxide,0.0,0.0,0.0
+PPD2CSPc_mitoMap,R_PPD2CSPc_mitoMap 6-Amino-2-oxohexanoate --> delta1-Piperideine-2-carboxylate + H2O,0.0,0.0,0.0
+1PPDCRc_mitoMap,R_1PPDCRc_mitoMap delta1-Piperideine-2-carboxylate + NADH + H+ --> L-Pipecolate + NAD+,0.0,0.0,0.0
+1PPDCRc_NADPH_mitoMap,R_1PPDCRc_NADPH_mitoMap delta1-Piperideine-2-carboxylate + NADPH + H+ --> L-Pipecolate + NADP+,0.0,0.0,0.0
+LPCOXc_mitoMap,"R_LPCOXc_mitoMap L-Pipecolate + Oxygen --> (S)-2,3,4,5-Tetrahydropyridine-2-carboxylate + Hydrogen peroxide",0.0,0.0,0.0
+RE1254C,"R_RE1254C (S)-2,3,4,5-Tetrahydropyridine-2-carboxylate + H2O --> L-2-Aminoadipate 6-semialdehyde",0.0,0.0,0.0
+r0594,R_r0594 L-2-Aminoadipate6-semialdehyde+NAD++H2O-->L-2-Aminoadipate+NADH+H+,0.0,0.0,0.0
+2AMADPTmB_mitoMap,R_2AMADPTmB_mitoMap Oxodicarboxylate carrier (ODC) - L-aminoadipate (in) for oxoglutarate (out),0.0,0.0,0.0
+2AMADPTmC_mitoMap,R_2AMADPTmC_mitoMap Oxodicarboxylate carrier (ODC) reverse - L-aminoadipate (out) for oxoglutarate (in),0.0,0.0,0.0
+PROD2mB_mitoMap,R_PROD2mB_mitoMap Proline + Q --> (S)-1-Pyrroline-5-carboxylate + QH2,1.2715848383264288,0.0011294355623622425,1.1294355623622425
+G5SADrm,R_G5SADrm L-Glutamate 5-semialdehyde --> (S)-1-Pyrroline-5-carboxylate + H2O,0.10057733184502828,8.933388628853896e-05,0.08933388628853896
+r0074,R_r0074 L-Glutamate 5-semialdehyde + NAD+ + H2O --> L-Glutamate + NADH + H+,0.0,0.0,0.0
+GLU5Km,R_GLU5Km ATP + L-Glutamate --> ADP + L-Glutamyl 5-phosphate,0.0,0.0,0.0
+G5SDym,R_G5SDym L-Glutamyl 5-phosphate + NADPH + H+ --> L-Glutamate 5-semialdehyde + Orthophosphate + NADP+,0.0,0.0,0.0
+P5CRm,R_P5CRm (S)-1-Pyrroline-5-carboxylate + NADPH + H+ --> L-Proline + NADP+,0.0,0.0,0.0
+P5CRxm,R_P5CRxm (S)-1-Pyrroline-5-carboxylate + NADH + H+ --> L-Proline + NAD+,1.3721621701714573,0.0012187694486507816,1.2187694486507816
+ORNTArm,R_ORNTArm L-Ornithine + 2-Oxoglutarate --> L-Glutamate 5-semialdehyde + L-Glutamate,0.10057733184502828,8.933388628853896e-05,0.08933388628853896
+ORNDC,R_ORNDC L-Ornithine --> Putrescine + CO2,0.0,0.0,0.0
+PTRCOX1,R_PTRCOX1 Putrescine + Oxygen + H2O --> 4-Aminobutyraldehyde + Ammonia + Hydrogen peroxide,0.0,0.0,0.0
+r0464c_mitoMap,R_r0464c_mitoMap 4-Aminobutyraldehyde + NADP+ + H2O --> 4-Aminobutanoate + NADPH + H+,0.0,0.0,0.0
+ABUTD,R_ABUTD 4-Aminobutyraldehyde + NAD+ + H2O --> 4-Aminobutanoate + NADH + H+,0.0,0.0,0.0
+ARGDCm,R_ARGDCm L-Arginine --> Agmatine + CO2,0.0,0.0,0.0
+AGMTm,R_AGMTm Agmatine + H2O --> Putrescine + Urea,0.0,0.0,0.0
+PTRCAT1m_mitoMap,R_PTRCAT1m_mitoMap Acetyl-CoA + Putrescine --> CoA + N-Acetylputrescine,0.0,0.0,0.0
+APRTO2m_mitoMap,R_APRTO2m_mitoMap N-Acetylputrescine + H2O + Oxygen --> N4-Acetylaminobutanal + Ammonia + Hydrogen peroxide,0.0,0.0,0.0
+NABTNOm,R_NABTNOm N4-Acetylaminobutanal + NAD+ + H2O --> 4-Acetamidobutanoate + NADH + H+,0.0,0.0,0.0
+4aabutn_mitoMap,R_4aabutn_mitoMap 4-Acetamidobutanoate + H2O --> 4-Aminobutanoate + Acetate,0.0,0.0,0.0
+GLUDC,R_GLUDC L-Glutamate --> 4-Aminobutanoate + CO2,0.0,0.0,0.0
+4ABUTtm,R_4ABUTtm 4-aminobutanoate (GABA) mitochondrial transport,0.0,0.0,0.0
+ABTArm,R_ABTArm 4-Aminobutanoate + 2-Oxoglutarate --> Succinate semialdehyde + L-Glutamate,0.0,0.0,0.0
+r0178,R_r0178 Succinate semialdehyde + NAD+ + H2O --> Succinate + NADH + H+,0.0,0.0,0.0
+GLUDxm,R_GLUDxm L-Glutamate + NAD+ + H2O --> 2-Oxoglutarate + NH3 + NADH + H+,0.0,0.0,0.0
+GLUDym,R_GLUDym L-Glutamate + NADP+ + H2O --> 2-Oxoglutarate + NH3 + NADPH + H+,0.0,0.0,0.0
+GLUDxi,R_GLUDxi L-Glutamate + NAD+ + H2O --> 2-Oxoglutarate + NH3 + NADH + H+,0.0,0.0,0.0
+GLUDy,R_GLUDy L-Glutamate + NADP+ + H2O --> 2-Oxoglutarate + NH3 + NADPH + H+,0.0,0.0,0.0
+GLNS,R_GLNS ATP + L-Glutamate + NH3 --> ADP + Orthophosphate + L-Glutamine,0.0,0.0,0.0
+GLUNm,R_GLUNm L-Glutamine + H2O --> L-Glutamate + NH3,0.21911490151952587,0.00019462025227145986,0.19462025227145985
+GLUN_mitoMap,R_GLUN_mitoMap L-Glutamine + H2O --> L-Glutamate + NH3,0.0,0.0,0.0
+PGCD,R_PGCD 3-Phospho-D-glycerate + NAD+ --> 3-Phosphonooxypyruvate + NADH + H+,0.0,0.0,0.0
+PSERT,R_PSERT 3-Phosphonooxypyruvate + L-Glutamate --> O-Phospho-L-serine + 2-Oxoglutarate,0.0,0.0,0.0
+PSP_L,R_PSP_L O-Phospho-L-serine + H2O --> L-Serine + Orthophosphate,0.0,0.0,0.0
+GHMT2r,"R_GHMT2r Tetrahydrofolate + L-Serine --> 5,10-Methylenetetrahydrofolate + Glycine + H2O",0.0,0.0,0.0
+FOLR2,R_FOLR2 Folate + NADPH + H+ --> Dihydrofolate + NADP+,0.0,0.0,0.0
+DHFR,R_DHFR Dihydrofolate + NADPH + H+ --> Tetrahydrofolate + NADP+,0.0,0.0,0.0
+MTHFD,"R_MTHFD 5,10-Methylenetetrahydrofolate + NADP+ --> 5,10-Methenyltetrahydrofolate + NADPH",0.0,0.0,0.0
+MTHFC,"R_MTHFC 5,10-Methenyltetrahydrofolate + H2O --> 10-Formyltetrahydrofolate + H+",0.0,0.0,0.0
+FTCD,"R_FTCD 5-Formiminotetrahydrofolate + H+ --> 5,10-Methenyltetrahydrofolate + Ammonia",0.0,0.0,0.0
+FTHFL,R_FTHFL Tetrahydrofolate + Formate + ATP --> ADP + Orthophosphate + 10-Formyltetrahydrofolate,0.0,0.0,0.0
+FTHFDH,R_FTHFDH 10-Formyltetrahydrofolate + NADP+ + H2O --> Tetrahydrofolate + CO2 + NADPH + H+,0.0,0.0,0.0
+r0060,R_r0060 L-Serine --> Pyruvate + Ammonia,0.0,0.0,0.0
+GHMT2rm,"R_GHMT2rm Tetrahydrofolate + L-Serine --> 5,10-Methylenetetrahydrofolate + Glycine + H2O",1.9289295428850068,0.0017132963191766224,1.7132963191766224
+GCCam,R_GCCam Glycine + Lipoylprotein --> S-Aminomethyldihydrolipoylprotein + CO2,-0.2191149015195259,-0.00019462025227145988,-0.19462025227145988
+GCCbim,"R_GCCbim S-Aminomethyldihydrolipoylprotein + Tetrahydrofolate --> Dihydrolipoylprotein + 5,10-Methylenetetrahydrofolate + Ammonia",-0.2191149015195259,-0.00019462025227145988,-0.19462025227145988
+GCCcm,R_GCCcm Dihydrolipoylprotein + NAD+ --> Lipoylprotein + NADH + H+,-0.2191149015195259,-0.00019462025227145988,-0.19462025227145988
+r0514,R_r0514 Folate + NADPH + H+ --> Dihydrofolate + NADP+,-3.0202389691230973e-16,-2.682609288617693e-19,-2.682609288617693e-16
+r0226,R_r0226 Dihydrofolate + NADPH + H+ --> Tetrahydrofolate + NADP+,-3.0202389691230973e-16,-2.682609288617693e-19,-2.682609288617693e-16
+MTHFDm,"R_MTHFDm 5,10-Methylenetetrahydrofolate + NADP+ --> 5,10-Methenyltetrahydrofolate + NADPH",1.7098146413654813,0.0015186760669051629,1.5186760669051629
+MTHFD2m,"R_MTHFD2m 5,10-Methylenetetrahydrofolate + NAD+ --> 5,10-Methenyltetrahydrofolate + NADH",0.0,0.0,0.0
+MTHFCm,"R_MTHFCm 5,10-Methenyltetrahydrofolate + H2O --> 10-Formyltetrahydrofolate + H+",1.7098146413654807,0.0015186760669051625,1.5186760669051624
+FTHFLm,R_FTHFLm Tetrahydrofolate + Formate + ATP --> ADP + Orthophosphate + 10-Formyltetrahydrofolate,-1.709814641365481,-0.0015186760669051627,-1.5186760669051627
+FTHFDHm_mitoMap,R_FTHFDHm_mitoMap 10-Formyltetrahydrofolate + NADP+ + H2O --> Tetrahydrofolate + CO2 + NADPH + H+,0.0,0.0,0.0
+GLYATm,R_GLYATm Acetyl-CoA + Glycine --> CoA + L-2-Amino-3-oxobutanoic acid,0.0,0.0,0.0
+AOBUTDsm,R_AOBUTDsm L-2-Amino-3-oxobutanoic acid --> Aminoacetone + CO2,0.0,0.0,0.0
+AACTOORm_mitoMap,R_AACTOORm_mitoMap Aminoacetone + H2O + Oxygen --> Methylglyoxal + Ammonia + Hydrogen peroxide,0.0,0.0,0.0
+LGTHLm_mitoMap,R_LGTHLm_mitoMap Glutathione + Methylglyoxal -->(R)-S-Lactoylglutathione,0.0,0.0,0.0
+GLYOXm,R_GLYOXm (R)-S-Lactoylglutathione + H2O --> Glutathione + (R)-Lactate,0.0,0.0,0.0
+LDH_Dm_mitoMap,R_LDH_Dm_mitoMap (R)-Lactate + NAD+ --> Pyruvate + NADH + H+,0.0,0.0,0.0
+CBPSam,R_CBPSam 2 ATP + Ammonia + HCO3 --> 2 ADP + Orthophosphate + Carbamoyl phosphate,0.0,0.0,0.0
+OCBTm,R_OCBTm Carbamoyl phosphate + L-Ornithine --> Orthophosphate + L-Citrulline,0.0,0.0,0.0
+NOS1,R_NOS1 L-Arginine + Oxygen + NADPH + H+ --> N-(omega)-Hydroxyarginine + NADP+ + H2O,0.0,0.0,0.0
+NOS2,R_NOS2 NADPH + 2 N-(omega)-Hydroxyarginine + 2 Oxygen + H+ --> NADP+ + 2 Nitric oxide + 2 L-Citrulline + 2 H2O,0.0,0.0,0.0
+r0129,R_r0129 Glutathione + H2O --> Cys-Gly + L-Glutamate,0.0,0.0,0.0
+AMPTASECG,R_AMPTASECG Cys-Gly + H2O --> L-Cysteine + Glycine,0.0,0.0,0.0
+GLUCYS,R_GLUCYS ATP + L-Glutamate + L-Cysteine --> ADP + Orthophosphate + gamma-L-Glutamyl-L-cysteine,0.0,0.0,0.0
+GTHS,R_GTHS ATP + gamma-L-Glutamyl-L-cysteine + Glycine --> ADP + Orthophosphate + Glutathione,0.0,0.0,0.0
+r0399,R_r0399 Tetrahydrobiopterin + L-Phenylalanine + Oxygen --> Dihydrobiopterin + L-Tyrosine + H2O,0.0,0.0,0.0
+DHPR,R_DHPR Dihydrobiopterin + NADH + H+ --> Tetrahydrobiopterin + NAD+,0.0,0.0,0.0
+TYRTA,R_TYRTA L-Tyrosine + 2-Oxoglutarate --> 3-(4-Hydroxyphenyl)pyruvate + L-Glutamate,0.0,0.0,0.0
+TYRTB_mitoMap,R_TYRTB_mitoMap L-Tyrosine + H2O + Oxygen --> 3-(4-Hydroxyphenyl)pyruvate + Ammonia + Hydrogen peroxide,0.0,0.0,0.0
+34HPPOR,R_34HPPOR 3-(4-Hydroxyphenyl)pyruvate + Oxygen --> Homogentisate + CO2,0.0,0.0,0.0
+HGNTOR,R_HGNTOR Homogentisate + Oxygen --> 4-Maleylacetoacetate,0.0,0.0,0.0
+MACACI,R_MACACI 4-Maleylacetoacetate --> 4-Fumarylacetoacetate,0.0,0.0,0.0
+FUMAC,R_FUMAC 4-Fumarylacetoacetate + H2O --> Acetoacetate + Fumarate,0.0,0.0,0.0
+ASNS1,R_ASNS1 ATP + L-Aspartate + L-Glutamine + H2O --> AMP + Diphosphate + L-Asparagine + L-Glutamate,0.0,0.0,0.0
+r0127,R_r0127 L-Asparagine + H2O --> L-Aspartate + Ammonia,0.0,0.0,0.0
+HISD,R_HISD L-Histidine --> Urocanate + Ammonia,0.0,0.0,0.0
+URCN,R_URCN Urocanate + H2O --> 4-Imidazolone-5-propanoate,0.0,0.0,0.0
+IZPN,R_IZPN 4-Imidazolone-5-propanoate + H2O --> N-Formimino-L-glutamate,0.0,0.0,0.0
+GluForTx,R_GluForTx 5-Formiminotetrahydrofolate + L-Glutamate --> Tetrahydrofolate + N-Formimino-L-glutamate,0.0,0.0,0.0
+APAT2rm,R_APAT2rm beta-Alanine + 2-Oxoglutarate --> 3-Oxopropanoate + L-Glutamate,0.0,0.0,0.0
+MMSAD3m,R_MMSAD3m 3-Oxopropanoate + CoA + NAD+ --> Acetyl-CoA + CO2 + NADH + H+,0.0,0.0,0.0
+MMSAD3m2_mitoMap,R_MMSAD3m2_mitoMap 3-Oxopropanoate + CoA + NADP+ --> Acetyl-CoA + CO2 + NADPH + H+,0.0,0.0,0.0
+ASP1DC,R_ASP1DC L-Aspartate --> beta-Alanine + CO2,0.0,0.0,0.0
+CKc,R_CKc ATP + Creatine --> ADP + Phosphocreatine,0.0,0.0,0.0
+CK,R_CK ATP + Creatine --> ADP + Phosphocreatine,0.0,0.0,0.0
+ACOAHi,R_ACOAHi Acetyl-CoA + H2O --> CoA + Acetate,0.0,0.0,0.0
+ALCD2yf,R_ALCD2yf Ethanol + NADP+ --> Acetaldehyde + NADPH + H+,0.0,0.0,0.0
+ALCD2if,R_ALCD2if Ethanol + NAD+ --> Acetaldehyde + NADH + H+,0.0,0.0,0.0
+ACALDtm,R_ACALDtm Acetaldehyde diffusion into mitochondrion,0.0,0.0,0.0
+ALDD2xm,R_ALDD2xm Acetaldehyde + NAD+ + H2O --> Acetate + NADH + H+,0.0,0.0,0.0
+ALDD2x,R_ALDD2x Acetaldehyde + NAD+ + H2O --> Acetate + NADH + H+,0.0,0.0,0.0
+ACSm,R_ACSm ATP + Acetate + CoA --> AMP + Diphosphate + Acetyl-CoA,0.0,0.0,0.0
+ACS,R_ACS ATP + Acetate + CoA --> AMP + Diphosphate + Acetyl-CoA,0.0,0.0,0.0
+ADSL1,"R_ADSL1 N6-(1,2-Dicarboxyethyl)-AMP --> Fumarate + AMP",0.0,0.0,0.0
+ADSS,"R_ADSS GTP + IMP + L-Aspartate --> GDP + Orthophosphate + N6-(1,2-Dicarboxyethyl)-AMP",0.0,0.0,0.0
+AMPD1,R_AMPD1 AMP + H2O --> IMP + Ammonia,0.0,0.0,0.0
+ARGN,R_ARGN L-Arginine + H2O --> L-Ornithine + Urea,0.06465685618608961,5.742892689977506e-05,0.05742892689977506
+ARGSL,R_ARGSL N-(L-Arginino)succinate --> Fumarate + L-Arginine,0.0,0.0,0.0
+ARGSS,R_ARGSS ATP + L-Citrulline + L-Aspartate --> AMP + Diphosphate + N-(L-Arginino)succinate,0.0,0.0,0.0
+ARGNm,R_ARGNm L-Arginine + H2O --> L-Ornithine + Urea,0.03592047565893867,3.190495938876391e-05,0.031904959388763914
+ALASm,R_ALASm Succinyl-CoA + Glycine --> 5-Aminolevulinate + CoA + CO2,0.0,0.0,0.0
+5AOPtm,R_5AOPtm 5-Aminolevulinate transport out of mitochondrion,0.0,0.0,0.0
+PPBNGS,R_PPBNGS 2 5-Aminolevulinate --> Porphobilinogen + 2 H2O,0.0,0.0,0.0
+HMBS,R_HMBS 4 Porphobilinogen + H2O --> Hydroxymethylbilane + 4 Ammonia,0.0,0.0,0.0
+UPP3S,R_UPP3S Hydroxymethylbilane --> Uroporphyrinogen III + H2O,0.0,0.0,0.0
+UPPDC1,R_UPPDC1 Uroporphyrinogen III --> Coproporphyrinogen III + 4 CO2,0.0,0.0,0.0
+CPPPGO,R_CPPPGO Coproporphyrinogen III + Oxygen --> Protoporphyrinogen IX + 2 CO2 + 2 H2O,0.0,0.0,0.0
+PPPGOmB_mitoMap,R_PPPGOmB_mitoMap Protoporphyrinogen IX + 3 Oxygen --> Protoporphyrin + 3 Hydrogen peroxide,0.0,0.0,0.0
+FCLTm,R_FCLTm Protoporphyrin + Fe2+ --> Heme + 2 H+,0.0,0.0,0.0
+PHEMEtm,R_PHEMEtm Heme transport out of mitochondrion,0.0,0.0,0.0
+HOXG,R_HOXG Heme + 3 NADPH + 3 Oxygen --> Globin + Biliverdin + CO + Fe2+ + 3 NADP + 3 H2O,0.0,0.0,0.0
+BILIRED,R_BILIRED Biliverdin + NADPH + H+ --> Bilirubin + NADP+,0.0,0.0,0.0
+BILIRED2_mitoMap,R_BILIRED2_mitoMap Biliverdin + NADH + H+ --> Bilirubin + NAD+,0.0,0.0,0.0
+PCHOLPm_hs,R_PCHOLPm_hs Phosphatidylcholine + H2O --> Phosphatidate + Choline,0.0,0.0,0.0
+GLYK,R_GLYK ATP + Glycerol --> ADP + sn-Glycerol 3-phosphate,0.0,0.0,0.0
+GLYC3Ptm,R_GLYC3Ptm Glycerol 3-phosphate transport - diffusion,0.0,0.0,0.0
+GPAMm_hsB_mitoMap,R_GPAMm_hsB_mitoMap sn-Glycerol 3-phosphate + Acyl-CoA --> 1-Acyl-sn-glycerol 3-phosphate + CoA,0.0,0.0,0.0
+AGPAT1B_mitoMap,R_AGPAT1B_mitoMap 1-Acyl-sn-glycerol 3-phosphate + Acyl-CoA --> Phosphatidate + CoA,0.0,0.0,0.0
+CDSm,R_CDSm CTP + Phosphatidate --> Diphosphate + CDP-diacylglycerol,0.0,0.0,0.0
+PGPPTm,R_PGPPTm CDP-diacylglycerol + sn-Glycerol 3-phosphate --> CMP + Phosphatidylglycerophosphate,0.0,0.0,0.0
+PGPP_hsm_mitoMap,R_PGPP_hsm_mitoMap Phosphatidylglycerophosphate + H2O --> Phosphatidylglycerol + Orthophosphate,0.0,0.0,0.0
+CLS_hsm_mitoMap,R_CLS_hsm_mitoMap Phosphatidylglycerol + CDP-diacylglycerol --> Cardiolipin + CMP,0.0,0.0,0.0
+CLPN_mitoMap,R_CLPN_mitoMap 2 Phosphatidylglycerol --> Cardiolipin + Glycerol,0.0,0.0,0.0
+CYTK1m,R_CYTK1m ATP + CMP --> ADP + CDP,0.0,0.0,0.0
+NDPK3m,R_NDPK3m ATP + CDP --> ADP + CTP,0.0,0.0,0.0
+SPODMm,R_SPODMm 2 O2.- + 2 H+ --> H2O2 + Oxygen,0.007827071646082455,6.952090650811407e-06,0.0069520906508114075
+GTHP,R_GTHP H2O2 + 2 Glutathione --> Glutathione disulfide + 2 H2O,0.0,0.0,0.0
+GTHPm,R_GTHPm H2O2 + 2 Glutathione --> Glutathione disulfide + 2 H2O,0.007827071646082455,6.952090650811407e-06,0.0069520906508114075
+GTHO,R_GTHO Glutathione disulfide + NADPH + H+ --> 2 Glutathione + NADP+,0.0,0.0,0.0
+GTHOm,R_GTHOm Glutathione disulfide + NADPH + H+ --> 2 Glutathione + NADP+,0.007827071646082455,6.952090650811407e-06,0.0069520906508114075
+CITtamB,R_CITtamB Citrate Carrier (CIC) - Citrate for Malate,-13.603084132040074,-0.012082408120524895,-12.082408120524894
+r0913,R_r0913 Citrate Carrier (CIC) - Isocitrate for Malate,3.419629282730962,0.0030373521338103253,3.0373521338103253
+CITtbm,R_CITtbm Citrate Carrier (CIC) - Citrate for PEP,0.0,0.0,0.0
+r0917,R_r0917 Citrate Carrier (CIC) - Citrate for Isocitrate,3.419629282730962,0.0030373521338103253,3.0373521338103253
+r0917b_mitoMap,R_r0917b_mitoMap Citrate Carrier (CIC) - Citrate for Isocitrate,3.419629282730962,0.0030373521338103253,3.0373521338103253
+PIt2mB_mitoMap,R_PIt2mB_mitoMap Phosphate carrier (PIC) - Symport phosphate and H+ together,38.02399801584689,0.033773330955102376,33.773330955102374
+ATPtmB_mitoMap,R_ATPtmB_mitoMap ADP/ATP carrier - antiport ATP for ADP,44.51509243685404,0.03953879202129874,39.53879202129874
+HtmB_mitoMap,R_HtmB_mitoMap UCP uncoupling protein - Proton Cyto to Proton Mito,0.0,0.0,0.0
+MALtm,R_MALtm Dicarboxylate carrier (DIC) - antiport malate for phosphate,1.0198770392769174,0.0009058659419941617,0.9058659419941617
+MALSO3tm,R_MALSO3tm Dicarboxylate carrier (DIC) - antiport malate for sulfite,7.510971460284076,0.006671327008190535,6.671327008190535
+MALTSULtm,R_MALTSULtm Dicarboxylate carrier (DIC) - antiport malate for thiosulfate,7.510971460284076,0.006671327008190535,6.671327008190535
+MALSO4tm,R_MALSO4tm Dicarboxylate carrier (DIC) - antiport malate for sulfate,7.510971460284076,0.006671327008190535,6.671327008190535
+SUCCt2m,R_SUCCt2m Dicarboxylate carrier (DIC) - antiport succinate for phosphate,-7.510971460284076,-0.006671327008190535,-6.671327008190535
+r0830,R_r0830 Dicarboxylate carrier (DIC) - antiport succinate for sulfite,-7.510971460284076,-0.006671327008190535,-6.671327008190535
+r0830B_mitoMap,R_r0830B_mitoMap Dicarboxylate carrier (DIC) - antiport succinate for thiosulfate,-7.510971460284076,-0.006671327008190535,-6.671327008190535
+r0829,R_r0829 Dicarboxylate carrier (DIC) - antiport succinate for sulfate,-7.510971460284076,-0.006671327008190535,-6.671327008190535
+SUCCt3m_mitoMap,R_SUCCt3m_mitoMap Dicarboxylate carrier (DIC) - antiport succinate for malate,-7.510971460284076,-0.006671327008190535,-6.671327008190535
+COAtmB_mitoMap,R_COAtmB_mitoMap CoA carrier (CoAPC) - antiport CoA for AMP,0.0,0.0,0.0
+COAtmC_mitoMap,R_COAtmC_mitoMap CoA carrier (CoAPC) - antiport CoA for ADP,0.0,0.0,0.0
+GLUt2mB_mitoMap,R_GLUt2mB_mitoMap Glutamate Carrier (GC2) - Symport L-glutamate with proton together,0.0,0.0,0.0
+ORNt4mB_mitoMap,R_ORNt4mB_mitoMap Ornithine carrier (ORC1) - antiport ornithine for citrulline,0.0,0.0,0.0
+r2398B_mitoMap,R_r2398B_mitoMap Ornithine carrier (ORC1) - antiport lysine for citrulline,0.0,0.0,0.0
+r2402B_mitoMap,R_r2402B_mitoMap Ornithine carrier (ORC1) - arginine for citrulline,0.0,0.0,0.0
+LYStmB_mitoMap,R_LYStmB_mitoMap Basic amino acid carrier (hBAC) - lysine,0.0,0.0,0.0
+ORNt3mB_mitoMap,R_ORNt3mB_mitoMap Basic amino acid carrier (hBAC) - ornithine,-0.06465685618608961,-5.742892689977506e-05,-0.05742892689977506
+ARGtmB_mitoMap,R_ARGtmB_mitoMap Basic amino acid carrier (hBAC) - arginine,0.03592047565893867,3.190495938876391e-05,0.031904959388763914
+r1427,R_r1427 Basic amino acid carrier (hBAC) - L-histidine,0.0,0.0,0.0
+PYRt2m,R_PYRt2m Pyruvate Carrier - pyruvate transport via proton symport,0.31969223336455416,0.00028395413855999887,0.28395413855999885
+ACACt2mB_mitoMap,R_ACACt2mB_mitoMap Pyruvate Carrier - Acetoacetate transport via proton symport,0.0,0.0,0.0
+FE2tm,R_FE2tm MitoFerrin carrier,0.0,0.0,0.0
+ASNtm,R_ASNtm Unknown amino acid carrier - L-Asparagine,0.0,0.0,0.0
+r1437,R_r1437 Unknown amino acid carrier - L-Cysteine,0.0,0.0,0.0
+GLNtm,R_GLNtm Unknown amino acid carrier - L-Glutamine,0.21911490151952587,0.00019462025227145986,0.19462025227145985
+PROtm,R_PROtm Unknown amino acid carrier - L-Proline,-0.10057733184502853,-8.933388628853919e-05,-0.0893338862885392
+r1078,R_r1078 Unknown amino acid carrier - L-Tyrosine,0.0,0.0,0.0
+r1436,R_r1436 Unknown amino acid carrier - L-Methionine,0.0,0.0,0.0
+r1455,R_r1455 Unknown amino acid carrier - L-Phenylalanine,0.0,0.0,0.0
+TRPtm_mitoMap,R_TRPtm_mitoMap Unknown amino acid carrier - L-Tryptophan,0.0,0.0,0.0
+GLYtm,R_GLYtm Unknown amino acid carrier - Glycine,-2.1480444444045323,-0.001907916571448082,-1.907916571448082
+ILEt5m,R_ILEt5m Unknown amino acid carrier - L-Isoleucine,0.0,0.0,0.0
+LEUt5m,R_LEUt5m Unknown amino acid carrier - L-Leucine,0.0,0.0,0.0
+VALt5m,R_VALt5m Unknown amino acid carrier - L-Valine,0.0,0.0,0.0
+r1434,R_r1434 Unknown amino acid carrier - L-Alanine,-0.31969223336455416,-0.00028395413855999887,-0.28395413855999885
+r1435,R_r1435 Unknown amino acid carrier - L-Serine,1.9289295428850068,0.0017132963191766224,1.7132963191766224
+r1440,R_r1440 Unknown amino acid carrier - L-Threonine,0.0,0.0,0.0
+BALAtmr,R_BALAtmr Beta-alanine reversible mitochondrial transport (diffusion),0.0,0.0,0.0
+UREAtm,R_UREAtm Urea transport,-0.03592047565893867,-3.190495938876391e-05,-0.031904959388763914
+FUMtmB_mitoMap,R_FUMtmB_mitoMap Fumarate transport,6.271979519487641,0.005570840813924921,5.570840813924921
+BHBtmB_mitoMap,R_BHBtmB_mitoMap (R)-3-Hydroxybutanoate mitochondrial transport,0.0,0.0,0.0
+PPAtmB_mitoMap,R_PPAtmB_mitoMap Propanoate mitochondrial transport,0.0,0.0,0.0
+BUTt2mB_mitoMap,R_BUTt2mB_mitoMap Butyrate mitochondrial transport,0.007184095131787735,6.380991877752784e-06,0.0063809918777527844
+FORt2mB_mitoMap,R_FORt2mB_mitoMap Formate mitochondrial transport,1.7098146413654807,0.0015186760669051625,1.5186760669051624
+r0962B_mitoMap,R_r0962B_mitoMap Folate mitochondrial transport,0.0,0.0,0.0
+CHLtmB_mitoMap,R_CHLtmB_mitoMap Choline mitochondrial transport,0.0,0.0,0.0
+CO2tm,"R_CO2tm CO2 transport (diffusion), mitochondrial",-15.329705963966376,-0.013616012517928064,-13.616012517928063
+H2Otm,"R_H2Otm H2O transport, mitochondrial",-20.87915498383545,-0.018545093838845346,-18.545093838845347
+O2tm,R_O2tm O2 transport (diffusion),5.9347055553709644,0.005271270389796859,5.271270389796858
+GLYCtm,R_GLYCtm glycerol transport,0.0,0.0,0.0
+CYANtm,R_CYANtm Cyanide transport via diffusion,0.0,0.0,0.0
+TCYNTtmB_mitoMap,R_TCYNTtmB_mitoMap Thiocyanate transport via diffusion (mitochondrial),0.0,0.0,0.0
+CREATtmdiffir,R_CREATtmdiffir Creatine transport to/from mitochondria,0.0,0.0,0.0
+PCREATtmdiffirB_mitoMap,R_PCREATtmdiffirB_mitoMap Phosphocreatine transport to/from mitochondria,0.0,0.0,0.0
+r0941,R_r0941 Bicarbonate diffusion,0.0,0.0,0.0
+r0838B_mitoMap,R_r0838B_mitoMap Ammonia free diffusion,0.0,0.0,0.0
+Biomasst_mitoMap,R_Biomasst_mitoMap Biomass pseudo transport,0.0,0.0,0.0
+PCFLOPm,R_PCFLOPm phosphatidylcholine flippase,0.0,0.0,0.0
+PSFLIPm,R_PSFLIPm phosphatidylserine flippase,0.0,0.0,0.0
+PEFLIPm,R_PEFLIPm phosphatidylethanolamine flippase,0.0,0.0,0.0
+Biomass_mitoMap,R_Biomass_mitoMap Biomass Sink,-51.602202284362654,-0.045833640508701874,-45.833640508701876
+O2t,R_O2t o2 transport (diffusion),5.9347055553709644,0.005271270389796859,5.271270389796858
+CO2t,R_CO2t CO2 transporter via diffusion,-15.329705963966376,-0.013616012517928064,-13.616012517928063
+HCO3t_mitoMap,R_HCO3t_mitoMap Bicarbonate diffusion,0.0,0.0,0.0
+GLCt1r,R_GLCt1r glucose transport,3.543554923754301,0.0031474242437015613,3.147424243701561
+HDCAtr,R_HDCAtr fatty acid transport via diffusion,0.0,0.0,0.0
+HDCAtm_mitoMap,R_HDCAtm_mitoMap fatty acid accumulation - mitochondria,-0.007184095131787734,-6.380991877752783e-06,-0.006380991877752784
+L_LACt2r,R_L_LACt2r L-lactate reversible transport via proton symport,-6.767417614144049,-0.0060108943488431255,-6.0108943488431255
+BHBt,R_BHBt (R)-3-Hydroxybutanoate transport via H+ symport,0.0,0.0,0.0
+ACACt2,R_ACACt2 acetoacetate transport via proton symport,0.0,0.0,0.0
+ETOHt,R_ETOHt ethanol reversible transport,0.0,0.0,0.0
+BUTt2r,"R_BUTt2r Butyrate transport via proton symport, reversible",0.007184095131787736,6.380991877752785e-06,0.006380991877752785
+GLYCt,R_GLYCt glycerol transport via channel,0.0,0.0,0.0
+r0942,R_r0942 Creatine storage,0.0,0.0,0.0
+r0942b_mitoMap,R_r0942b_mitoMap Phosphocreatine storage,0.0,0.0,0.0
+HIStiDF,R_HIStiDF L-histidine transport via diffusion (extracellular to cytosol),0.0,0.0,0.0
+ILEtec,R_ILEtec L-isoleucine transport via diffusion (extracellular to cytosol),0.0,0.0,0.0
+LEUtec,R_LEUtec L-leucine transport via diffusion (extracellular to cytosol),0.0,0.0,0.0
+LYStiDF,R_LYStiDF L-lysine transport via diffusion (extracellular to cytosol),0.0,0.0,0.0
+METtec,R_METtec L-methionine transport via diffusion (extracellular to cytosol),0.0,0.0,0.0
+PHEtec,R_PHEtec L-phenylalanine transport via diffusion (extracellular to cytosol),0.0,0.0,0.0
+r2534,R_r2534 L-threonine transport,0.0,0.0,0.0
+TRPt,R_TRPt L-tryptophan transport,0.0,0.0,0.0
+VALtec,R_VALtec L-valine transport via diffusion (extracellular to cytosol),0.0,0.0,0.0
+ARGtiDF,R_ARGtiDF L-arginine transport via diffusion (extracellular to cytosol),0.1005773318450283,8.933388628853899e-05,0.08933388628853899
+ASPte,R_ASPte L-aspartate transport,5.06193687447493e-15,4.4960677008301344e-18,4.496067700830134e-15
+CYStec,R_CYStec L-cysteine transport via diffusion (extracellular to cytosol),0.0,0.0,0.0
+GLUt_mitoMap,R_GLUt_mitoMap L-glutamate transport,0.0,0.0,0.0
+r2525,R_r2525 L_glutamine transport,0.21911490151952584,0.00019462025227145986,0.19462025227145985
+GLYt2r,R_GLYt2r glycine reversible transport via proton symport,-2.1480444444045323,-0.001907916571448082,-1.907916571448082
+PROt2r,R_PROt2r L-proline reversible transport via proton symport,-0.10057733184502853,-8.933388628853919e-05,-0.0893338862885392
+r2526,R_r2526 L-serine transport,1.928929542885007,0.0017132963191766226,1.7132963191766226
+TYRt,R_TYRt L-tyrosine transport,0.0,0.0,0.0
+r2532,R_r2532 L-asparagine transport,0.0,0.0,0.0
+ALAt2r,R_ALAt2r L-alanine reversible transport via proton symport,-0.31969223336455066,-0.0002839541385599957,-0.28395413855999574
+FUMt_mitoMap,R_FUMt_mitoMap Fumarate transport,0.0,0.0,0.0
+SUMt_mitoMap,R_SUMt_mitoMap Succinate transport,-37.554857301420384,-0.033356635040952674,-33.356635040952675
+r0817,R_r0817 Citrulline transport,0.0,0.0,0.0
+NH4t3r,R_NH4t3r ammonia transport via proton antiport,0.0,0.0,0.0
+ACt2r,R_ACt2r acetate reversible transport via proton symport,0.0,0.0,0.0
+PPAt,"R_PPAt Propanoate transport, diffusion",0.0,0.0,0.0
+2HBt2,R_2HBt2 2-hydroxybutyrate cotransport with proton,0.0,0.0,0.0
+CHOLtu,R_CHOLtu Choline uniport,0.0,0.0,0.0
+r1088,R_r1088 Citrate transport,-6.76382556657815,-0.006007703852904244,-6.007703852904244
+ICITt_mitoMap,R_ICITt_mitoMap Isocitrate transport,-10.258887848192886,-0.009112056401430976,-9.112056401430976
+UREAt,R_UREAt Urea transport via facilitate diffusion,-0.10057733184502826,-8.933388628853894e-05,-0.08933388628853894
+r1512,R_r1512 Bilirubin transport,0.0,0.0,0.0
+ARGSUCt_mitoMap,R_ARGSUCt_mitoMap Argininosuccinate transport,0.0,0.0,0.0
+MAL_Lte,R_MAL_Lte Malate transport,4.577421646217432,0.0040657159753248965,4.065715975324896
+OAAt_mitoMap,R_OAAt_mitoMap Oxaloacetate transport,0.31969223336455665,0.00028395413856000104,0.283954138560001
+AKGt_mitoMap,R_AKGt_mitoMap 2-Oxoglutarate transport,49.461341935089905,0.04393210492913154,43.93210492913154
+MERCPLACt_mitoMap,R_MERCPLACt_mitoMap 3-Mercaptolactate transport,0.0,0.0,0.0
+r0899,R_r0899 Beta-alanine,0.0,0.0,0.0
+FE2t,R_FE2t iron (II) transport,0.0,0.0,0.0
+H2Ot,R_H2Ot H2O transport via diffusion,17.42861478971704,0.01548028629542825,15.48028629542825
+Hct_mitoMap,R_Hct_mitoMap Proton escape - cytosolic,42.96665546651713,0.03816345336699654,38.163453366996535
+Hmt_mitoMap,R_Hmt_mitoMap Proton escape - mitochondrial,-52.890196938053315,-0.04697765144856591,-46.97765144856591
+SO3t_mitoMap,R_SO3t_mitoMap Sulfite,0.0,0.0,0.0
+TSULt_mitoMap,R_TSULt_mitoMap Thiosulfate,0.0,0.0,0.0
+r0940,R_r0940 hydrogen sulfide,0.0,0.0,0.0
+CYANt,R_CYANt Cyanide transport via diffusion (extracellular to cytosol),0.0,0.0,0.0
+TCYNTt,R_TCYNTt Thiocyanate,0.0,0.0,0.0
+r1423,R_r1423 Phosphate facilitated diffusion,-4.023449550997241e-15,-3.573671900844206e-18,-3.573671900844206e-15
+FORt_mitoMap,R_FORt_mitoMap Formate,-1.7098146413654807,-0.0015186760669051625,-1.5186760669051624
+FOLt_mitoMap,R_FOLt_mitoMap Folate,0.0,0.0,0.0
+NADHt_mitoMap,R_NADHt_mitoMap NADH pool,0.0,0.0,0.0
+NADt_mitoMap,R_NADt_mitoMap NAD+ pool,0.0,0.0,0.0
+NADHtm_mitoMap,R_NADHtm_mitoMap NADH pool mitochondrial,0.0,0.0,0.0
+NADtm_mitoMap,R_NADtm_mitoMap NAD+ pool mitochondrial,1.437390372243041e-14,1.2767058512155983e-17,1.2767058512155984e-14
+COt,R_COt CO transporter via diffusion,0.0,0.0,0.0
+NOt,R_NOt NO transport (diffusion),0.0,0.0,0.0
+PCHOLHSTDe,R_PCHOLHSTDe Phosphatidylcholine,0.0,0.0,0.0
+PSt3,R_PSt3 Phosphatidylserine,0.0,0.0,0.0
+PEt,R_PEt Phosphatidylethanolamine,0.0,0.0,0.0
+CBPS,Carbamoyl-phosphate synthase (glutamine-hydrolysing),0.0,0.0,0.0
+ASPCT,Aspartate carbamoyltransferase,0.0,0.0,0.0
+DHORTS,Dihydroorotase,0.0,0.0,0.0
+DHORD9,Dihydoorotic acid dehydrogenase (quinone10),0.0,0.0,0.0
+DM_orot_c,Orotate demand,0.0,0.0,0.0
