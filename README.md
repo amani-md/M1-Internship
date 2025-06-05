@@ -1,21 +1,35 @@
 # M1-Internship
-M1 internship, april-june 2025, in Habermann Lab (Computational Biology)
 
+M1 internship, April–June 2025, in the Habermann Lab (Computational Biology)
 
-Project title: Friedreich's Ataxia, RNA-Seq data analysis and metabolic modelling
+## Project Title
+Friedreich's Ataxia: RNA-Seq Data Analysis and Metabolic Modelling
 
-Project description: 
-1. Data
-Bulk-RNA sequencing in cardiac cells of WT and KO mice at three weeks (WT3w and KO3w, respectively), and WT, KO-NaCl and KO treated with AAV mice at eight weeks (WT8w-NaCl, KO8w-NaCl and KO8w-AAV, respectively).
+## Project Description
 
-2. Differential gene expression analyses
-With DESeq2 package (version 1.46.0)
+1. **Data**  
+   Bulk RNA sequencing was performed on cardiac cells from wild-type (WT) and knockout (KO) mice at three weeks (WT3w and KO3w, respectively), and from WT, KO-NaCl, and KO treated with AAV at eight weeks (WT8w-NaCl, KO8w-NaCl, and KO8w-AAV).
 
-3. Gene selection for ataxiaXplorer
-FRDA gene list built containing genes that were identified from differential expression analyses of FRDA data, that were not found in the ataxia interactome builyt by the lab from SCA ataxia data.
+2. **Differential Gene Expression Analyses**  
+   Conducted using the DESeq2 package (version 1.46.0).
 
-4. Functional enrichment analyses and annotation
-Enrichment analysis, using Enrichr, was performed on the DEGs identified for each condition comparison: WT8w-NaCl versus KO8w-NaCl, KO8w-NaCl versus KO8w-AAV, KO8w-AAV versus WT8w-NaCl and WT3w versus KO3w.
+3. **Gene Selection for ataxiaXplorer**  
+   An FRDA gene list was created, including genes identified from differential expression analyses of FRDA data that were not present in the ataxia interactome previously built by the lab using SCA ataxia data.
 
-5. Metabolic modelling
-Metabolic modelling of the WT and KO phenotypes at three weeks was performed using mitoMAMMAL (pFBA).
+4. **Functional Enrichment Analyses and Annotation**  
+   Enrichment analysis (using Enrichr) was performed on the DEGs identified in the following comparisons:  
+   - WT8w-NaCl vs KO8w-NaCl  
+   - KO8w-NaCl vs KO8w-AAV  
+   - KO8w-AAV vs WT8w-NaCl  
+   - WT3w vs KO3w
+
+5. **Metabolic Modelling**  
+   Performed using mitoMAMMAL (pFBA) to model the metabolism of WT and KO mice at three weeks.
+
+## Repository Layout
+
+1. **Statistical_Analysis/**  
+   Contains all R Markdown files used for exploratory analysis, differential expression, enrichment, and annotation. Also includes the resulting figures and data outputs (e.g., DEG lists, FRDA gene list, and DESeq2 results for all genes in all comparisons).
+
+2. **Metabolic_Modeling/**  
+   Contains the Jupyter notebook used for metabolic modeling, associated data files (e.g., modified read counts, mitoMAMMAL files), and resulting figures and output files (predicted fluxes).
